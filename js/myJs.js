@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Tớ qua đón cậu đi chơi nhaaaaaaaaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://facebook.com/khanhphuong.8225';
+                    window.location = 'https://facebook.com/khanhphandev';
                   }
             })
         }
